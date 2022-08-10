@@ -9,4 +9,4 @@ I would like to experiment with changing the colors of the buttons and adding Pa
 ## License
 This program is covered by an MIT License. For more information, click the "LICENSE" file. 
 
-<img src="./images/PacMan1.png">
+<img src="./images/PacMan1.png" width='200'/>
