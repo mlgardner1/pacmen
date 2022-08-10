@@ -1,9 +1,12 @@
-# pacmen
-Factory for making pacmen
-You are given a starter.html code.
-When button "make one" is pressed you need to complete the code 
-to position the new pacman image and add it to the "game" div. It is then added to the array of pacmen, which keeps track of the position and velocity of each pacman.
-You also need to make each pacman bounce off any wall it hits. 
-Start by getting at least one pacman positioned and viewable. 
+# PacMen Factory
 
-<img src="PacMan1.png">
+## Description
+This program utilizes buttons to create and run a PacMen factory game. The PacMen run at different velocities and are limited by the edges of the window. 
+## Instructions
+Pres the "Add PacMan" button to produce a PacMan, and repeat until you have created the desired number. Then, press "Start Game" to move the PacMen. Press "Start Game" again to change the images' velocity.
+## Roadmap
+I would like to experiment with changing the colors of the buttons and adding PacMen in set rows instead of randomly. 
+## License
+This program is covered by an MIT License. For more information, click the "LICENSE" file. 
+
+<img src="./images/PacMan1.png">
